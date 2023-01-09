@@ -1,0 +1,18 @@
+{
+  "name": "api_rest_lenguajes_programacion",
+  "version": "1.0.0",
+  "description": "Api de lenguajees de programación",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Daniel Almanza Mozqueda",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
